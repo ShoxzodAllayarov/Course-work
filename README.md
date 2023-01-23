@@ -2,19 +2,15 @@
 >Django python framework using to create web bookshop
 
 ## Table of Contents
-  - [Demo](#demo)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Config project](#config-project)
   - [License](#license)
 
-## Demo
-Here is a working live demo: [Basic web Bookshop](https://django-bookshops-basic.herokuapp.com)
+
 ## Screenshots
 Example web application page
-### Home page
-![](screenshots/home.png)
 ### Login page
 ![](screenshots/login.png)
 ### Register page
