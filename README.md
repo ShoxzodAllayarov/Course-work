@@ -1,5 +1,5 @@
 # Python-Django-Bookshop
->Django python framework using to create web bookshop
+>Django python framework был использован для создания данного проекта
 
 ## Содержания
   - [Скриншоты](#Скриншоты)
